@@ -13,27 +13,28 @@ git commit -m  ¨nombre¨ te permite realizar un checkpoint al que puede volver 
 
 git log te permite ver todo los commmit que tengas de ta detalles de la hora y quien lo hizo 
 
-git push origin <rama> al  hacer push estamos subiendo los cambios de nuestra rama, en este caso master 
+git push origin (rama) al  hacer push estamos subiendo los cambios de nuestra rama, en este caso master 
 
 
-git pull origin <rama> permite sincronizar nuestra local (master en este caso ) con la nube
+git pull origin (rama) permite sincronizar nuestra local (master en este caso ) con la nube
 
 git reset head^ te permite devolver antes de que usaramosel commit 
 
-git reset <cofigo del commit> te permite volver al commit que  hasta eligido
+git reset (codigo del commit) te permite volver al commit que  hasta eligido
 
 git branch Te dira que ramas a creados y en cual estas 
 
-git branch <nombre de la  rama> esto  crea una rama con el nombre que indentifiques, siempre quevallas a crear una rama muevete a master
+git branch (nombre de la  rama) esto  crea una rama con el nombre que indentifiques, siempre quevallas a crear una rama muevete a master
 
-git checkout <nombre de la rama> esto nos llevara a la rama elegida  (movernos entre ramas)
+git checkout (nombre de la rama) esto nos llevara a la rama elegida  (movernos entre ramas)
 
-git puesh origin <nomnbre de la rama> para sincronizarlo con la rama en la nube
+git push origin (nomnbre de la rama) para sincronizarlo con la rama en la nube
 
-git merge <nombre de la rama a juntar > esto junta 2 ramas en una sola 
+git merge (nombre de la rama a juntar)  esto junta 2 ramas en una sola 
 
 
 ...................................
+
 para inicar sesion en git  
 
 
