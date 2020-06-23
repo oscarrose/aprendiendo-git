@@ -28,12 +28,18 @@ git branch <nombre de la  rama> esto  crea una rama con el nombre que indentifiq
 
 git checkout <nombre de la rama> esto nos llevara a la rama elegida  (movernos entre ramas)
 
+git puesh origin <nomnbre de la rama> para sincronizarlo con la rama en la nube
+
+git merge <nombre de la rama a juntar > esto junta 2 ramas en una sola 
+
 
 ...................................
 para inicar sesion en git  
 
+
 git config --gobal user.email ""
 
 git config --global user.name ""
+
 ------------------------------------------
 
