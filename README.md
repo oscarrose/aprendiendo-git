@@ -2,9 +2,9 @@
 
 git clone para clonar proyecto 
 
-git status para ver el estado en que estab los archivos
+git status para ver el estado en que estado los archivos
 
-git add para agregar los archivos
+git add para agregar los archivos al area de staging
 
 
 git reset para volver antes del git add no agragar
@@ -14,6 +14,15 @@ git commit -m  ¨nombre¨ te permite realizar un checkpoint al que puede volver 
 git log te permite ver todo los commmit que tengas de ta detalles de la hora y quien lo hizo 
 
 git push origin (rama) al  hacer push estamos subiendo los cambios de nuestra rama, en este caso master 
+
+git diff para ver las diferencias  hechas  en los  archivos
+
+.gitignore se crea un archivo para describir los archivos a ignorar
+
+head -n 3 ~/.gitconfig para ver la configuracion de los usuarios y correo que esta git.
+
+git remote add origin "Link del repositorio" para indicar a que repositorio nos vamos a conectar
+
 
 
 git pull origin (rama) permite sincronizar nuestra local (master en este caso ) con la nube
@@ -43,4 +52,5 @@ git config --gobal user.email ""
 git config --global user.name ""
 
 ------------------------------------------
+
 
