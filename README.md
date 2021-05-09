@@ -31,6 +31,8 @@ git checkout <nombre de la rama> esto nos llevara a la rama elegida  (movernos e
 git puesh origin <nomnbre de la rama> para sincronizarlo con la rama en la nube
 
 git merge <nombre de la rama a juntar > esto junta 2 ramas en una sola 
+  
+ Si quieres comprobar tu configuración, puedes usar el comando git config --list para mostrar todas las propiedades que Git ha configurado 
 
 
 ...................................
